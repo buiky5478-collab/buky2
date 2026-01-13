@@ -1,7 +1,7 @@
 # Thông tin sinh viên
 
 Họ và tên: Bùi Văn Kỳ  
-Mã sinh viên: ................  
+Mã sinh viên:23Att123  
 Tài khoản gmail: buiky5478@gmail.com  
 Tài khoản github: https://github.com/buiky5478  
-Tài khoản trello: ................  
+Tài khoản trello: buiky5478@gmail.com 
